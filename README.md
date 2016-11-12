@@ -4,7 +4,7 @@
 [![Latest Stable Version][ico-githubversion]][link-releases]
 
 This program can use the laboratory in AceOnline like games and enchant your items.
-It is especially useful on private servers, where enchant- & protect-cards are free, but reaching certain stages (e16) has a low chance and requires a huge amount of tries.
+It is especially useful on private servers, where enchant- & protect-cards are free, but reaching certain stages (e.g. e16) has a low chance and requires a huge amount of tries.
 
 ## Features
 
