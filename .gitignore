@@ -1,0 +1,17 @@
+Thumbs.db
+
+*.class
+.classpath
+.project
+
+*.jar
+*.war
+*.ear
+/bin
+/releases
+/target
+
+/.idea
+
+/build/res
+/build/*.png
